@@ -1,4 +1,4 @@
-# CSS Layouts
+# Fun With Math
 
 **User Story**
 As a fundraiser, I need to square the sum of of 2 numbers so that I can project the effects of crowdfunding a campaign with 2 groups of people.
